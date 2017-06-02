@@ -1,0 +1,25 @@
+{
+  "name": "easy-faker",
+  "version": "0.0.1",
+  "description": "mock api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "preinstall": "git config user.email 'pengfei_yang@outlook.com'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyyang/easy-faker.git"
+  },
+  "keywords": [
+    "mock",
+    "mocker",
+    "faker"
+  ],
+  "author": "flyyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flyyang/easy-faker/issues"
+  },
+  "homepage": "https://github.com/flyyang/easy-faker#readme"
+}
