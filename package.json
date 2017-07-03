@@ -1,5 +1,5 @@
 {
-  "name": "easy-faker",
+  "name": "y",
   "version": "0.0.1",
   "description": "mock api",
   "main": "index.js",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/flyyang/easy-faker/issues"
   },
-  "homepage": "https://github.com/flyyang/easy-faker#readme"
+  "homepage": "https://github.com/flyyang/easy-faker#readme",
+  "dependencies": {
+    "typescript": "^2.4.1"
+  }
 }
